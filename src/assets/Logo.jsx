@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <img 
-      src="/public/favicon.ico" 
+      src="/favicon.ico" 
       alt="logo" 
       style={{ 
         height: '12px',
