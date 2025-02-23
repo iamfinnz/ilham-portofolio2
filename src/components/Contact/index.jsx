@@ -46,7 +46,7 @@ Pesan: ${messageRef.current.value}`;
         <div className="contact__group">
           <div>
             <h3 className="title">
-              Let's talk on your <span className="shine">greate project</span> together
+              Let's talk on your <span className="shine">great project</span> together
             </h3>
             <div className="contact__options">
               {contactInfo.map((contact, index) => (

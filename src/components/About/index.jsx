@@ -30,7 +30,7 @@ const About = () => {
           <h1 className="title">
             I am <span className="color__primary">Ilham Arifin</span>
           </h1>
-          <p className="text__muted desription">
+          <p className="text__muted desription" style={{textAlign: "justify"}}>
           I am a Software Developer passionate about crafting dynamic, user-friendly, 
           and visually engaging web and mobile applications. Proficient in multiple 
           programming languages and frameworks, including PHP, Laravel, CodeIgniter, 
