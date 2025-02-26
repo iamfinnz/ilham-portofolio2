@@ -116,8 +116,9 @@ export const projects = [
     title: "Diabet.Check",
     image: project1,
     category: "Apps",
-    description: `Aplikasi untuk mengecek kadar gula darah 
-    (Diabetes, Pre-Diabetes, Normal), konsultasi dengan ahli dan edukasi terkait diabetes.`,
+    description: `An application for checking blood sugar levels 
+    (Diabetes, Pre-Diabetes, Normal), consulting with experts, and 
+    providing education about diabetes.`,
     demoLink: "https://drive.google.com/file/d/1-W_akNGxGKlc-AZxa4fGb7hw8tNt0pE3/view",
     stacks: [
       {
@@ -134,9 +135,9 @@ export const projects = [
     title: "Sistem Tempat Tidur",
     image: project3,
     category: "Web",
-    description: `Sistem yang dapat memberikan informasi mengenai 
-    status ketersediaan tempat tidur pasien secara real-time pada rumah sakit. 
-    Sistem ini dapat mengeluarkan suara dan manajemen tempat tidur yang baik`,
+    description: `A system that provides real-time information on patient bed 
+    availability in hospitals. This system is equipped with audio alerts and 
+    efficient bed management features.`,
     demoLink: "https://bed.rssansani.co.id/",
     stacks: [
       {
@@ -161,8 +162,8 @@ export const projects = [
     title: "Web Rumah Sakit Sansani",
     image: project4,
     category: "Web",
-    description: `Web profile yang menyediakan informasi terbaru mengenai rumah
-    sakit sansani, lengkap dengan fitur booking dokter dan layanan kesehatan lainnya.`,
+    description: `A profile website providing the latest information about Sansani Hospital, 
+    complete with doctor booking features and other healthcare services.`,
     demoLink: "https://rssansani.co.id/",
     stacks: [
       {
