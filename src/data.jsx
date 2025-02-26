@@ -161,11 +161,8 @@ export const projects = [
     title: "Web Rumah Sakit Sansani",
     image: project4,
     category: "Web",
-    description: `Unlock the future of robotics with our Robotic Engineering Web Application
-      project. Seamlessly integrating cutting-edge technology, data analytics, 
-      and collaborative tools, our platform empowers engineers to design, simulate, 
-      and optimize robotic systems. Experience innovation at its peak as we redefine the 
-      boundaries of robotic engineering.`,
+    description: `Web profile yang menyediakan informasi terbaru mengenai rumah
+    sakit sansani, lengkap dengan fitur booking dokter dan layanan kesehatan lainnya.`,
     demoLink: "https://rssansani.co.id/",
     stacks: [
       {
