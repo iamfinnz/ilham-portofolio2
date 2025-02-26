@@ -83,70 +83,73 @@ export const services = [
 ];
 
 export const projects = [
+  // {
+  //   title: "Menu Online",
+  //   image: project1,
+  //   category: "UI/UX",
+  //   description: `Transforming education with AI, our School UI Design project revolutionizes the 
+  //                    learning experience. Seamlessly integrating intelligent features, personalized interfaces, 
+  //                    and intuitive navigation, our design empowers educators and students alike. Experience 
+  //                    innovation at its finest as we pave the way for a smarter, more efficient educational 
+  //                    journey.`,
+  //   demoLink: "https://google.com/",
+  //   stacks: [
+  //     {
+  //       name: "Laravel",
+  //       logo: laravel,
+  //     },
+  //     {
+  //       name: "PHP",
+  //       logo: php,
+  //     },
+  //     {
+  //       name: "MySQL",
+  //       logo: mysql,
+  //     },
+  //     {
+  //       name: "Tailwind",
+  //       logo: tailwind,
+  //     },
+  //   ],
+  // },
   {
-    title: "AI Powered School",
+    title: "Diabet.Check",
     image: project1,
-    category: "UI/UX",
-    description: `Transforming education with AI, our School UI Design project revolutionizes the 
-                     learning experience. Seamlessly integrating intelligent features, personalized interfaces, 
-                     and intuitive navigation, our design empowers educators and students alike. Experience 
-                     innovation at its finest as we pave the way for a smarter, more efficient educational 
-                     journey.`,
-    demoLink: "https://google.com/",
+    category: "Apps",
+    description: `Aplikasi untuk mengecek kadar gula darah 
+    (Diabetes, Pre-Diabetes, Normal), konsultasi dengan ahli dan edukasi terkait diabetes.`,
+    demoLink: "https://drive.google.com/file/d/1-W_akNGxGKlc-AZxa4fGb7hw8tNt0pE3/view",
     stacks: [
       {
-        name: "XD",
-        logo: xd,
+        name: "Kotlin",
+        logo: kotlin,
+      },
+      {
+        name: "Firebase",
+        logo: firebase,
       },
     ],
   },
   {
-    title: "E-Commerce Application",
-    image: project2,
-    category: "Web",
-    description: `Enhance your online shopping experience with our E-Commerce Application 
-      UI design project. Seamlessly blending aesthetics with functionality, our intuitive 
-      interface offers easy navigation, personalized recommendations, and secure 
-      transactions. Elevate your digital storefront and captivate customers with a visually 
-      stunning design tailored to your brand`,
-    demoLink: "https://google.com/",
-    stacks: [
-      {
-        name: "ReactJs",
-        logo: react,
-      },
-      {
-        name: "XD",
-        logo: xd,
-      },
-      {
-        name: "CSS",
-        logo: css,
-      },
-      {
-        name: "JavaScript",
-        logo: javascript,
-      },
-    ],
-  },
-  {
-    title: "Robotic Engineering Web Application",
+    title: "Sistem Tempat Tidur",
     image: project3,
     category: "Web",
-    description: `Unlock the future of robotics with our Robotic Engineering Web Application
-      project. Seamlessly integrating cutting-edge technology, data analytics, 
-      and collaborative tools, our platform empowers engineers to design, simulate, 
-      and optimize robotic systems. Experience innovation at its peak as we redefine the 
-      boundaries of robotic engineering.`,
-    demoLink: "https://google.com/",
+    description: `Sistem yang dapat memberikan informasi mengenai 
+    status ketersediaan tempat tidur pasien secara real-time pada rumah sakit. 
+    Sistem ini dapat mengeluarkan suara dan manajemen tempat tidur yang baik`,
+    demoLink: "https://bed.rssansani.co.id/",
     stacks: [
       {
-        name: "ReactJs",
-        logo: react,
+        name: "NextJS",
+        logo: nextjs,
       },
       {
-        name: "Figma",
-        logo: figma,
+        name: "Javascript",
+        logo: javascript,
+      },
+      {
+        name: "Firebase",
+        logo: firebase,
       },
       {
         name: "Tailwind",
@@ -155,63 +158,27 @@ export const projects = [
     ],
   },
   {
-    title: "Project Management application",
+    title: "Web Rumah Sakit Sansani",
     image: project4,
-    category: "Apps",
-    description: `Simplify project coordination with our intuitive Project Management application. Track tasks, collaborate in real-time, and streamline workflows effortlessly. With customizable features and robust reporting, stay organized and efficient.
-                     Elevate your project management experience and achieve success with ease.`,
-    demoLink: "https://google.com/",
+    category: "Web",
+    description: `Unlock the future of robotics with our Robotic Engineering Web Application
+      project. Seamlessly integrating cutting-edge technology, data analytics, 
+      and collaborative tools, our platform empowers engineers to design, simulate, 
+      and optimize robotic systems. Experience innovation at its peak as we redefine the 
+      boundaries of robotic engineering.`,
+    demoLink: "https://rssansani.co.id/",
     stacks: [
       {
-        name: "React Native",
-        logo: reactnative,
+        name: "Laravel",
+        logo: laravel,
       },
       {
-        name: "XD",
-        logo: xd,
+        name: "PHP",
+        logo: php,
       },
       {
-        name: "CSS",
-        logo: css,
-      },
-    ],
-  },
-  {
-    title: "Mobile bank - App Design",
-    image: project5,
-    category: "UI/UX",
-    description: `Experience banking at your fingertips with our sleek Mobile Bank app design. Seamlessly manage your finances on-the-go with intuitive navigation, secure transactions, and personalized insights. Enjoy a modern interface that prioritizes convenience and accessibility, revolutionizing your banking experience.`,
-    demoLink: "https://google.com/",
-    stacks: [
-      {
-        name: "Figma",
-        logo: figma,
-      },
-    ],
-  },
-  {
-    title: "Quiz App Development",
-    image: project6,
-    category: "Apps",
-    description: `Elevate engagement and knowledge retention with our Quiz App 
-                    Development project. Seamlessly crafted for interactive learning 
-                    experiences, our app offers customizable quizzes, real-time feedback, 
-                    and captivating visuals. Empower users to test their knowledge anytime,
-                     anywhere, fostering a dynamic learning environment tailored to their 
-                     needs.`,
-    demoLink: "https://google.com/",
-    stacks: [
-      {
-        name: "React Native",
-        logo: reactnative,
-      },
-      {
-        name: "Figma",
-        logo: figma,
-      },
-      {
-        name: "XD",
-        logo: xd,
+        name: "MySQL",
+        logo: mysql,
       },
       {
         name: "Bootstrap",
@@ -358,7 +325,7 @@ export const contactInfo = [
   {
     name: "WhatsApp",
     value: "085158465119",
-    link: "https://api.whatsapp.com/send/?phone=085158465119&text=hai%20ilham,%20saya%20ingin%20membuat%20projek/sistem%20dengan%20anda.%20bisakah%20anda%20membantu%20saya?&type=phone_number&app_absent=0",
+    link: "https://api.whatsapp.com/send/?phone=6285158465119&text=hai%20ilham,%20saya%20ingin%20membuat%20projek/sistem%20dengan%20anda.%20bisakah%20anda%20membantu%20saya?&type=phone_number&app_absent=0",
     icon: whatsappicon,
     btnIcon: <BsWhatsapp />,
     color: "rgb(38,234,112)",

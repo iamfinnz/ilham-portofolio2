@@ -2,7 +2,7 @@ import "./HeaderTitle.css";
 const HeaderTitle = () => {
   const handleDownloadCV = () => {
     // Logika view CV
-    window.open('/public/CV-Ilham-Arifin.pdf', '_blank', 'noopener,noreferrer');
+    window.open('/CV-Ilham-Arifin.pdf', '_blank', 'noopener,noreferrer');
   };
   return (
     <svg
